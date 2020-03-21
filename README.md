@@ -7,6 +7,10 @@ Infected.json : Masked GPS history of all confirmed patients stacked together
 
 Test.json     : Masked GPS history of the person to be checked
 
+Here, the json files are dummy files created as placeholders. Please replace the files with your own. 
+
+Pickle files have been uploaded for demo purpose. load_pickle arguments of the class needs to be True to use pickle files instead of json.
+
 The GPS history can be downloaded through Google Takeout. Steps to download Location History:
 
 1. Visit Google Takeout(https://takeout.google.com/settings/takeout) to download your GPS history. There is a list of datasets to choose from, on the Google Takeout page. Deselect all and then just select 'Location History'.
