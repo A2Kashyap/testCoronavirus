@@ -1,6 +1,8 @@
 ## testCoronavirus
 The idea behind this project is to utilize GPS history to approximate the probability of having contracted the Coronavirus disease (COVID-19). This requires GPS history repository of confirmed patients which is subject to be available based on the decision of the government to share the required masked information. 
 
+You can find the detailed explanation on this blog(https://medium.com/@A2Kashyap/coronavirus-covid-19-were-you-infected-check-now-41b81b1343a3)
+
 INPUT:
 
 Infected.json : Masked GPS history of all confirmed patients stacked together
